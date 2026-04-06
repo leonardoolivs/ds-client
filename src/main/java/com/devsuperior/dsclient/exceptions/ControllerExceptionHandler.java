@@ -1,8 +1,8 @@
 package com.devsuperior.dsclient.exceptions;
 
-import com.devsuperior.dsecommerce.exceptions.CustomError;
-import com.devsuperior.dsecommerce.exceptions.ResourceNotFoundException;
-import com.devsuperior.dsecommerce.exceptions.ValidationError;
+import com.devsuperior.dsclient.exceptions.CustomError;
+import com.devsuperior.dsclient.exceptions.ResourceNotFoundException;
+import com.devsuperior.dsclient.exceptions.ValidationError;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;

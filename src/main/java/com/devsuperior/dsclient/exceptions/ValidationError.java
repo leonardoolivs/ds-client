@@ -1,6 +1,6 @@
 package com.devsuperior.dsclient.exceptions;
 
-import com.devsuperior.dsecommerce.exceptions.CustomError;
+import com.devsuperior.dsclient.exceptions.CustomError;
 
 import java.time.Instant;
 import java.util.ArrayList;
